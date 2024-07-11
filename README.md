@@ -7,4 +7,8 @@
 <br>
 <p align="center">
   hi! i'm sarunas bendoraitis, 2nd year computer science undergraduate studying at lancaster university.
+  <br>
+  some of my past projects include: bmp file to nonogram puzzle converter, sudoku back-tracking algorithm, and a product price comparer using web-scraping.
+  <br>
+  some of my current projects include: pixel editor using java, and an algorithm visualiser for first year university students.
 </p>
