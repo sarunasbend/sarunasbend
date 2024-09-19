@@ -9,6 +9,4 @@
   hi! i'm sarunas bendoraitis, 2nd year computer science undergraduate studying at lancaster university.
   <br>
   some of my past projects include: pixel editor (still in development, but looking very good!), bmp to nonogram converter (private until my university confirms that i can make it public), bst visualiser for educating other cs students 
-  <br>
-  some of my current projects include: pixel editor using java, and an algorithm visualiser for first year university students.
 </p>
